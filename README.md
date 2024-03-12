@@ -40,8 +40,8 @@
 <br>
 <h3 align="left">Problem Solving:</h3>
 <p align="center">
-    <a href="https://codeforces.com/profile/AbdElRahmanOsama2"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=AbdElRahmanOsama2&theme=dark" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://leetcode.com/AbdElRahmanOsama2"><img src="https://leetcard.jacoblin.cool/AbdElRahmanOsama2?ext=heatmap&theme=dark&hide=ranking" /></a>
+    <a href="https://codeforces.com/profile/AbdElRahmanOsama2"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=AbdElRahmanOsama2&theme=dark" height="260" /></a>&nbsp;&nbsp;
+    <a href="https://leetcode.com/AbdElRahmanOsama2"><img src="https://leetcard.jacoblin.cool/AbdElRahmanOsama2?ext=heatmap&theme=dark&hide=ranking" height="260" /></a>
 </p>
 <div align="center">
     <h3 align="center">Visitor's count :eyes:</h3>
