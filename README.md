@@ -30,12 +30,12 @@
 <h3 align="left">Projects:</h3>
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
 <p align="left">
-    <a href="https://github.com/AbdElRahmanOsama182/MailServer" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdElRahmanOsama182&repo=MailServer&description_lines_count=2" /></a>&nbsp;
-    <a href="https://github.com/AbdElRahmanOsama182/Concurrency-Simulation" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdElRahmanOsama182&repo=Concurrency-Simulation&description_lines_count=2" /></a>&nbsp;
-    <a href="https://github.com/AbdElRahmanOsama182/Paint" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdElRahmanOsama182&repo=Paint&description_lines_count=2" /></a>&nbsp;
-    <a href="https://github.com/AbdElRahmanOsama182/Equator" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdElRahmanOsama182&repo=Equator&description_lines_count=2" /></a>&nbsp;
-    <a href="https://github.com/AbdElRahmanOsama182/RECI-BEE" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdElRahmanOsama182&repo=RECI-BEE&description_lines_count=2" /></a>&nbsp;
-    <a href="https://github.com/AbdElRahmanOsama182/SimpleCalculator" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdElRahmanOsama182&repo=SimpleCalculator&description_lines_count=2" /></a>&nbsp;
+    <a href="https://github.com/AbdElRahmanOsama182/MailServer" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdElRahmanOsama182&repo=MailServer&description_lines_count=3" /></a>&nbsp;
+    <a href="https://github.com/AbdElRahmanOsama182/Concurrency-Simulation" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdElRahmanOsama182&repo=Concurrency-Simulation&description_lines_count=3" /></a>&nbsp;
+    <a href="https://github.com/AbdElRahmanOsama182/Paint" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdElRahmanOsama182&repo=Paint&description_lines_count=3" /></a>&nbsp;
+    <a href="https://github.com/AbdElRahmanOsama182/Equator" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdElRahmanOsama182&repo=Equator&description_lines_count=3" /></a>&nbsp;
+    <a href="https://github.com/AbdElRahmanOsama182/RECI-BEE" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdElRahmanOsama182&repo=RECI-BEE&description_lines_count=3" /></a>&nbsp;
+    <a href="https://github.com/AbdElRahmanOsama182/SimpleCalculator" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdElRahmanOsama182&repo=SimpleCalculator&description_lines_count=3" /></a>&nbsp;
 </p>
 <br>
 <h3 align="left">Problem Solving:</h3>
