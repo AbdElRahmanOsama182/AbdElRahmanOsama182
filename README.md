@@ -15,19 +15,19 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <!-- LinkedIn -->
-    <a href="https://linkedin.com/in/AbdElRahmanOsama2" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
+    <a href="https://linkedin.com/in/AbdElRahmanOsama2" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo" /></a>
     <!-- Gmail -->
-    <a href="mailto:bodyusama207@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail&theme=light" width="52" height="40" alt="gmail logo" /></a>
+    <a href="mailto:bodyusama207@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail&theme=light" height="40" alt="gmail logo" /></a>
     <!-- Codeforces -->
-    <a href="https://codeforces.com/profile/AbdElRahmanOsama2" target="blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="AbdElRahmanOsama2" width="52" height="40" /></a>
+    <a href="https://codeforces.com/profile/AbdElRahmanOsama2" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="AbdElRahmanOsama2" height="40" /></a>
     <!-- LeetCode -->
-    <a href="https://www.leetcode.com/AbdELRahmanOsama2" target="blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="AbdELRahmanOsama2" width="52" height="40" /></a>
+    <a href="https://www.leetcode.com/AbdELRahmanOsama2" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="AbdELRahmanOsama2" height="40" /></a>
     <!-- Hackerrank -->
-    <a href="https://www.hackerrank.com/bodyusama207" target="blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="bodyusama207" width="52" height="40" /></a>
+    <a href="https://www.hackerrank.com/bodyusama207" target="blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="bodyusama207" height="40" /></a>
     <!-- Facebook -->
-    <a href="https://fb.com/abdelrahman.osama.218" target="blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="abdelrahman.osama.218" width="52" height="40" /></a>
+    <a href="https://fb.com/abdelrahman.osama.218" target="blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="abdelrahman.osama.218" height="40" /></a>
     <!-- Instagram -->
-    <a href="https://instagram.com/abd.elrahman.osama" target="blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="abd.elrahman.osama" width="52" height="40" /></a>
+    <a href="https://instagram.com/abd.elrahman.osama" target="blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="abd.elrahman.osama" height="40" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
