@@ -21,7 +21,7 @@
     <!-- Codeforces -->
     <a href="https://codeforces.com/profile/AbdElRahmanOsama2" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="AbdElRahmanOsama2" height="40" /></a>
     <!-- LeetCode -->
-    <a href="https://www.leetcode.com/AbdELRahmanOsama2" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="AbdELRahmanOsama2" height="40" /></a>
+    <a href="https://www.leetcode.com/AbdELRahman182" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="AbdELRahman182" height="40" /></a>
     <!-- Hackerrank -->
     <a href="https://www.hackerrank.com/bodyusama207" target="blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="bodyusama207" height="40" /></a>
     <!-- Facebook -->
@@ -112,10 +112,10 @@
             <source media="(prefers-color-scheme: dark)" srcset="https://codeforces-readme-stats.vercel.app/api/card?username=AbdElRahmanOsama2&theme=dark" height="260" />
             <source media="(prefers-color-scheme: light)" srcset="https://codeforces-readme-stats.vercel.app/api/card?username=AbdElRahmanOsama2" height="260" />
             <img src="https://codeforces-readme-stats.vercel.app/api/card?username=AbdElRahmanOsama2&theme=dark" height="260" /></picture></a>&nbsp;&nbsp;
-    <a href="https://www.leetcode.com/AbdElRahmanOsama2"><picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/AbdElRahmanOsama2?ext=heatmap&theme=dark&hide=ranking" height="260" />
-            <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/AbdElRahmanOsama2?ext=heatmap&theme=light&hide=ranking" height="260" />
-            <img src="https://leetcard.jacoblin.cool/AbdElRahmanOsama2?ext=heatmap&theme=dark&hide=ranking" height="260" /></picture></a>
+    <a href="https://www.leetcode.com/AbdElRahman182"><picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/AbdElRahman182?ext=heatmap&theme=dark" height="260" />
+            <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/AbdElRahman182?ext=heatmap&theme=light" height="260" />
+            <img src="https://leetcard.jacoblin.cool/AbdElRahman182?ext=heatmap&theme=dark" height="260" /></picture></a>
 </p>
 <div align="center">
     <h3 align="center">Visitor's count :eyes:</h3>
