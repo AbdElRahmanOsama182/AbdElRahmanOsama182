@@ -96,7 +96,7 @@
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AbdElRahmanOsama182&repo=Equator&description_lines_count=3&theme=dark" />
             <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AbdElRahmanOsama182&repo=Equator&description_lines_count=3" />
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdElRahmanOsama182&repo=Equator&description_lines_count=3" /></picture></a>&nbsp;
-    <a href="https://github.com/AbdElRahmanOsama182/RECI-BEE" target="blank"><picture>
+    <a href="https://github.com/AbdElRahmanOsama182/LeetCode-Problems" target="blank"><picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AbdElRahmanOsama182&repo=LeetCode-Problems&description_lines_count=3&theme=dark" />
             <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AbdElRahmanOsama182&repo=LeetCode-Problems&description_lines_count=3" />
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdElRahmanOsama182&repo=LeetCode-Problems&description_lines_count=3" /></picture></a>&nbsp;
