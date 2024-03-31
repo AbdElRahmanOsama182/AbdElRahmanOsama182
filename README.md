@@ -109,17 +109,17 @@
 <h3 align="left">Problem Solving:</h3>
 <p align="center">
     <a href="https://codeforces.com/profile/AbdElRahmanOsama2"><picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://codeforces-readme-stats.vercel.app/api/card?username=AbdElRahmanOsama2&theme=dark" height="260" />
-            <source media="(prefers-color-scheme: light)" srcset="https://codeforces-readme-stats.vercel.app/api/card?username=AbdElRahmanOsama2" height="260" />
-            <img src="https://codeforces-readme-stats.vercel.app/api/card?username=AbdElRahmanOsama2&theme=dark" height="260" /></picture></a>&nbsp;&nbsp;
+            <source media="(prefers-color-scheme: dark)" srcset="https://codeforces-readme-stats.vercel.app/api/card?username=AbdElRahmanOsama2&theme=dark" height="250" />
+            <source media="(prefers-color-scheme: light)" srcset="https://codeforces-readme-stats.vercel.app/api/card?username=AbdElRahmanOsama2" height="250" />
+            <img src="https://codeforces-readme-stats.vercel.app/api/card?username=AbdElRahmanOsama2&theme=dark" height="250" /></picture></a>&nbsp;&nbsp;
     <a href="https://www.leetcode.com/AbdElRahman182"><picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/AbdElRahman182?ext=heatmap&theme=dark" height="260" />
-            <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/AbdElRahman182?ext=heatmap&theme=light" height="260" />
-            <img src="https://leetcard.jacoblin.cool/AbdElRahman182?ext=heatmap&theme=dark" height="260" /></picture></a>
+            <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/AbdElRahman182?ext=heatmap&theme=dark" height="250" />
+            <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/AbdElRahman182?ext=heatmap&theme=light" height="250" />
+            <img src="https://leetcard.jacoblin.cool/AbdElRahman182?ext=heatmap&theme=dark" height="250" /></picture></a>
     <a href="https://www.leetcode.com/AbdElRahman182"><picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=abdelrahman182&theme=black" height="260" />
-            <source media="(prefers-color-scheme: light)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=abdelrahman182&theme=light" height="260" />
-            <img src="https://leetcode-badge-showcase.vercel.app/api?username=abdelrahman182&theme=black" height="260" /></picture></a>
+            <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=abdelrahman182&theme=black" height="250" />
+            <source media="(prefers-color-scheme: light)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=abdelrahman182&theme=light" height="250" />
+            <img src="https://leetcode-badge-showcase.vercel.app/api?username=abdelrahman182&theme=black" height="250" /></picture></a>
 </p>
 <div align="center">
     <h3 align="center">Visitor's count :eyes:</h3>
