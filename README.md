@@ -111,11 +111,11 @@
     <a href="https://codeforces.com/profile/AbdElRahmanOsama2"><picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://codeforces-readme-stats.vercel.app/api/card?username=AbdElRahmanOsama2&theme=dark" height="225" />
             <source media="(prefers-color-scheme: light)" srcset="https://codeforces-readme-stats.vercel.app/api/card?username=AbdElRahmanOsama2" height="225" />
-            <img src="https://codeforces-readme-stats.vercel.app/api/card?username=AbdElRahmanOsama2&theme=dark" height="225" /></picture></a>&nbsp;&nbsp;
+            <img src="https://codeforces-readme-stats.vercel.app/api/card?username=AbdElRahmanOsama2&theme=dark" height="225" /></picture></a>&nbsp;
     <a href="https://www.leetcode.com/AbdElRahman182"><picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/AbdElRahman182?ext=heatmap&theme=dark" height="225" />
             <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/AbdElRahman182?ext=heatmap&theme=light" height="225" />
-            <img src="https://leetcard.jacoblin.cool/AbdElRahman182?ext=heatmap&theme=dark" height="225" /></picture></a>&nbsp;&nbsp;
+            <img src="https://leetcard.jacoblin.cool/AbdElRahman182?ext=heatmap&theme=dark" height="225" /></picture></a>&nbsp;
     <a href="https://www.leetcode.com/AbdElRahman182"><picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=abdelrahman182&theme=black" height="260" />
             <source media="(prefers-color-scheme: light)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=abdelrahman182&theme=light" height="260" />
