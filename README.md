@@ -17,7 +17,7 @@
     <!-- LinkedIn -->
     <a href="https://linkedin.com/in/AbdElRahmanOsama2" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo" /></a>
     <!-- Gmail -->
-    <a href="mailto:bodyusama207@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail&theme=light" height="40" alt="gmail logo" /></a>
+    <a href="mailto:bodyusama207@gmail.com" target="blank"><img src="https://img.icons8.com/color/100/gmail-new.png" height="40" alt="gmail logo" /></a>
     <!-- Codeforces -->
     <a href="https://codeforces.com/profile/AbdElRahmanOsama2" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="AbdElRahmanOsama2" height="40" /></a>
     <!-- LeetCode -->
@@ -116,6 +116,10 @@
             <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/AbdElRahman182?ext=heatmap&theme=dark" height="260" />
             <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/AbdElRahman182?ext=heatmap&theme=light" height="260" />
             <img src="https://leetcard.jacoblin.cool/AbdElRahman182?ext=heatmap&theme=dark" height="260" /></picture></a>
+    <a href="https://www.leetcode.com/AbdElRahman182"><picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=abdelrahman182&theme=black" height="260" />
+            <source media="(prefers-color-scheme: light)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=abdelrahman182&theme=light" height="260" />
+            <img src="https://leetcode-badge-showcase.vercel.app/api?username=abdelrahman182&theme=black" height="260" /></picture></a>
 </p>
 <div align="center">
     <h3 align="center">Visitor's count :eyes:</h3>
