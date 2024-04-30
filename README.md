@@ -96,10 +96,10 @@
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AbdElRahmanOsama182&repo=Equator&description_lines_count=3&theme=dark" />
             <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AbdElRahmanOsama182&repo=Equator&description_lines_count=3" />
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdElRahmanOsama182&repo=Equator&description_lines_count=3" /></picture></a>&nbsp;
-    <a href="https://github.com/AbdElRahmanOsama182/LeetCode-Problems" target="blank"><picture>
+<!--     <a href="https://github.com/AbdElRahmanOsama182/LeetCode-Problems" target="blank"><picture> 
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AbdElRahmanOsama182&repo=LeetCode-Problems&description_lines_count=3&theme=dark" />
             <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AbdElRahmanOsama182&repo=LeetCode-Problems&description_lines_count=3" />
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdElRahmanOsama182&repo=LeetCode-Problems&description_lines_count=3" /></picture></a>&nbsp;
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdElRahmanOsama182&repo=LeetCode-Problems&description_lines_count=3" /></picture></a>&nbsp;-->
     <a href="https://github.com/AbdElRahmanOsama182/SimpleCalculator" target="blank"><picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AbdElRahmanOsama182&repo=SimpleCalculator&description_lines_count=3&theme=dark" />
             <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AbdElRahmanOsama182&repo=SimpleCalculator&description_lines_count=3" />
@@ -117,9 +117,9 @@
             <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/AbdElRahman182?ext=heatmap&theme=light" height="225" />
             <img src="https://leetcard.jacoblin.cool/AbdElRahman182?ext=heatmap&theme=dark" height="225" /></picture></a>&nbsp;
     <a href="https://www.leetcode.com/AbdElRahman182"><picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=abdelrahman182&theme=black&timestamp=1712145192" height="260" />
-            <source media="(prefers-color-scheme: light)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=abdelrahman182&theme=light&timestamp=1712145192" height="260" />
-            <img src="https://leetcode-badge-showcase.vercel.app/api?username=abdelrahman182&theme=black&timestamp=1712145192" height="260" /></picture></a>
+            <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=AbdElRahman182&theme=black" height="260" />
+            <source media="(prefers-color-scheme: light)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=AbdElRahman182&theme=light" height="260" />
+            <img src="https://leetcode-badge-showcase.vercel.app/api?username=AbdElRahman182&theme=black" height="260" /></picture></a>
 </p>
 <div align="center">
     <h3 align="center">Visitor's count :eyes:</h3>
