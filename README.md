@@ -29,6 +29,8 @@
     <!-- Instagram -->
     <a href="https://instagram.com/abd.elrahman.osama" target="blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="abd.elrahman.osama" height="40" /></a>
 </p>
+    <!-- Resume -->
+    <a href="https://flowcv.com/resume/ntrs97kou1" target="blank"><img src="https://img.shields.io/badge/Resume-EF3939?style=for-the-badge&logo=readdotcv&logoColor=white&color=black&labelColor=ec1c24" alt="abd.elrahman.osama" height="35" /></a>
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
